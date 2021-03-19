@@ -1,6 +1,6 @@
 body {
   background-color: blue;
-  background-image: url("owl.jpg");
+  background-image: linear-gradient(to bottom right, red, black);
   background-repeat: no-repeat;
 
 }
