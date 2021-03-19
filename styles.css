@@ -22,7 +22,11 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+a {
+  color: powderblue;
+}
+
 img {
- 
   opacity: 0.5;
 }
