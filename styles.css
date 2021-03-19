@@ -1,6 +1,6 @@
 body {
   background-color: blue;
-  background-image: linear-gradient(to bottom right, red, black);
+  background-image: linear-gradient(to bottom right, blue, black);
   background-repeat: no-repeat;
 
 }
