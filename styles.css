@@ -1,6 +1,6 @@
 body {
-  background-color: blue;
-  background-image: linear-gradient(to bottom right, blue, black);
+  background-color: black;
+  background-image: linear-gradient(to bottom right, red, black);
   background-repeat: no-repeat;
 
 }
@@ -23,9 +23,6 @@ p {
   font-size: 20px;
 }
 
-a {
-  color: powderblue;
-}
 
 img {
   opacity: 0.5;
