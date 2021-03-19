@@ -1,6 +1,6 @@
 body {
-  background-color: black;
-  background-image: linear-gradient(to bottom right, red, black);
+  background-color: blue;
+background-image: url('owl.jpg');
   background-repeat: no-repeat;
 
 }
@@ -22,8 +22,6 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
-
-
 img {
-  opacity: 0.5;
+  opacity: 0.7;
 }
